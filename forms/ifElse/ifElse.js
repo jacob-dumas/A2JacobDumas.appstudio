@@ -1,3 +1,4 @@
+
 let firstName = ""
 let state = ""
 let temp = ""
@@ -15,3 +16,4 @@ else if  (temp > 32 &&  temp <= 50 && state == "FL")
     console.log(`${firstName}, ${messages[2]}.`)
 else (temp > 50 &&  temp <= 70 && state == "FL")
     console.log(`${firstName}, ${messages[3]}.`)
+ 
